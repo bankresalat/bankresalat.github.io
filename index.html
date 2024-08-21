@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Link Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        .logo {
+            margin-top: -20px;
+        }
+
+        .links {
+            margin-top: 20px;
+            width: 90%;
+            max-width: 600px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .link-item {
+            width: 100%;
+            text-align: center;
+            background-color: #009fb5;
+            color: white;
+            padding: 15px 20px;
+            margin: 10px 0;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 1.2em;
+            transition: background-color 0.3s ease;
+        }
+
+        .link-item:hover {
+            background-color: #007a8c;
+        }
+
+        @media (max-width: 600px) {
+            .link-item {
+                font-size: 1em;
+                padding: 10px 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="logo">
+        <img src="Resalat-logo-bank.png" alt="Logo" width="150">
+    </div>
+
+    <div class="links">
+        <a href="https://ble.ir/join/bxrgmktc34" target="_blank" class="link-item">BALE</a>
+        <a href="https://eitaa.com/resalatnahavand" target="_blank" class="link-item">Eitaa</a>
+        <a href="https://rubika.ir/resalatnahavand" target="_blank" class="link-item">Rubika</a>
+        <a href="https://t.me/resalatnahavand" target="_blank" class="link-item">Telegram</a>
+    </div>
+
+</body>
+</html>
