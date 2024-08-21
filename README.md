@@ -1,15 +1,15 @@
-# Useful Links
+# لینک‌های مفید
 
-Here are some useful links:
+در اینجا برخی از لینک‌های مفید آورده شده است:
 
-🔗 **[BLE](https://ble.ir/join/bxrgmktc34)**  
-Join our BLE channel for updates and more.
+🔗 **[بله](https://ble.ir/join/bxrgmktc34)**  
+به کانال بله ما بپیوندید تا از به‌روزرسانی‌ها و موارد دیگر مطلع شوید.
 
-📱 **[Eitaa](https://eitaa.com/resalatnahavand)**  
-Follow us on Eitaa for the latest news.
+📱 **[ایتا](https://eitaa.com/resalatnahavand)**  
+ما را در ایتا دنبال کنید تا از جدیدترین اخبار مطلع شوید.
 
-📲 **[Rubika](https://rubika.ir/resalatnahavand)**  
-Connect with us on Rubika.
+📲 **[روبیکا](https://rubika.ir/resalatnahavand)**  
+با ما در روبیکا ارتباط برقرار کنید.
 
-✈️ **[Telegram](https://t.me/resalatnahavand)**  
-Join our Telegram group for discussions and updates.
+✈️ **[تلگرام](https://t.me/resalatnahavand)**  
+به گروه تلگرام ما بپیوندید تا از بحث‌ها و به‌روزرسانی‌ها مطلع شوید.
